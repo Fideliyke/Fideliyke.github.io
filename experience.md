@@ -8,7 +8,6 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-
 <!-- One -->
 <section id="one">
     <div class="row">
@@ -41,126 +40,130 @@ nav-menu: true
                 - Pioneered the establishment of a dedicated research team within the department to investigate the impact of the Covid-19 pandemic on FinTech companies in Nigeria.
             </p>
         </div>
-        <header class="major">
-            <h1>Volunteering</h1>
-        </header>
-        <!-- Break -->
-        <div class="row">
-            <div class="6u 12u$(small)">
-                <h3>Youth Health Action Network</h3>
-                <p style="text-align: justify;">
-                    Data Entry/Data Analysis/Research<br>
-                    - Gathering and inputting data during medical outreach programs.<br>
-                    - Data management and analysis tasks.<br>
-                    - Developing dashboards and PowerPoint presentations for use in<br> summits and conferences.<br>
-                    - Constructing Google Forms and online classrooms.
-                </p>
-            </div>
-            <div class="6u$ 12u$(small)">
-                <h3>Global Youth Mental Health Awareness Australia</h3>
-                <p style="text-align: justify;">
-                    Volunteer<br>
-                    - Serves as the Social Media Representative, responsible for managing the organization's LinkedIn profile.<br>
-                    - Featured as a speaker on several occasions during Facebook Live shows, addressing various aspects of mental health concerns.
-                </p>
-            </div>
+    </div>
+</section>
+<!-- Volunteering Section -->
+<section id="volunteering">
+    <header class="major">
+        <h1>Volunteering</h1>
+    </header>
+    <div class="row">
+        <div class="6u 12u$(small)">
+            <!-- Your existing volunteering content -->
+            <!-- ... -->
+        </div>
+        <div class="6u$ 12u$(small)">
+            <!-- Your existing volunteering content -->
+            <!-- ... -->
         </div>
     </div>
 </section>
-
-<header class="major">
-            <h1>Certifications</h1>
-        </header>
-        <!-- Break -->
-<section id="one">
+<!-- Certifications Section -->
+<section id="certifications">
+    <header class="major">
+        <h1>Certifications</h1>
+    </header>
     <div class="row">
+        <!-- Certification 1 -->
         <div class="6u 12u$(small)">
             <h3>SQL (Sololearn)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/SQL Sololearn.jpg" target="_blank">here</a> to view the image.
             </p>
         </div>
-        <!-- Clickable text leading to a PDF -->
+        <!-- Certification 2 -->
         <div class="6u$ 12u$(small)">
             <h3>Excel (LinkedIn Learning)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/Learning Excel.png" target="_blank">here</a> to view the image.
             </p>
         </div>
+    </div>
     <div class="row">
+        <!-- Certification 3 -->
         <div class="6u 12u$(small)">
             <h3>Data Analyst Bootcamp (KEN-X_EDU)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/KEN-X-EDU.jpg" target="_blank">here</a> to view the image.
             </p>
         </div>
-        <!-- Clickable text leading to a PDF -->
+        <!-- Certification 4 -->
         <div class="6u$ 12u$(small)">
             <h3>Introduction to Python (Global AI Hub)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/Introduction to Python-Global AI Hub.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
+    </div>
     <div class="row">
+        <!-- Certification 5 -->
         <div class="6u 12u$(small)">
             <h3>Introduction to Python with Google Collab and Anaconda (Hamoye)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/certificate-Fidelis+Ikechukwu+Edeh-Introduction+to+Python+With+Google+Colab+&+Anaconda (1).pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
-        <!-- Clickable text leading to a PDF -->
+        <!-- Certification 6 -->
         <div class="6u$ 12u$(small)">
             <h3>Complete Python Bootcamp (Udemy)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/2022 Complete Python_Bootcamp From Zero to Hero in_Python.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
+    </div>
     <div class="row">
+        <!-- Certification 7 -->
         <div class="6u 12u$(small)">
             <h3>Python for Data Science and Machine Learning (Udemy)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/Python for Data Science and_Machine Learning Bootcamp.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
-        <!-- Clickable text leading to a PDF -->
+        <!-- Certification 8 -->
         <div class="6u$ 12u$(small)">
             <h3>Introduction to Machine Learning (Global AI Hub)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/Introduction to Machine Learning-Global AI Hub.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
+    </div>
     <div class="row">
+        <!-- Certification 9 -->
         <div class="6u 12u$(small)">
             <h3>AI and Machine Learning with Python (Data Scientists Network Foundation)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/DSN AI Everyday.jpg" target="_blank">here</a> to view the image.
             </p>
             <p>
-                (ID: DSNAI0000064) Click<a href="{{ site.baseurl }}https://cert.datasciencenigeria.ai/" target="_blank">here</a> to verify.
+                (ID: DSNAI0000064) Click <a href="{{ site.baseurl }}https://cert.datasciencenigeria.ai/" target="_blank">here</a> to verify.
             </p>
         </div>
-        <!-- Clickable text leading to a PDF -->
+        <!-- Certification 10 -->
         <div class="6u$ 12u$(small)">
             <h3>MLOPs Crash Course (Data Science Dojo)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/MLOps Crash Course.png" target="_blank">here</a> to view the image.
             </p>
         </div>
+    </div>
     <div class="row">
+        <!-- Certification 11 -->
         <div class="6u 12u$(small)">
             <h3>Time Series Analysis (Hamoye)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/certificate-Fidelis+Ikechukwu+Edeh-Practical+Time+Series+Analysis+&+Forecast.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
-        <!-- Clickable text leading to a PDF -->
+        <!-- Certification 12 -->
         <div class="6u$ 12u$(small)">
             <h3>Neural Network (Hamoye)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/Neural+Network,+Image+Recognition+&+Object+Detection.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
+    </div>
     <div class="row">
+        <!-- Certification 13 -->
         <div class="6u 12u$(small)">
             <h3>Data Science Fellowship (Hamoye)</h3>
             <p>
@@ -168,3 +171,4 @@ nav-menu: true
             </p>
         </div>
     </div>
+</section>
