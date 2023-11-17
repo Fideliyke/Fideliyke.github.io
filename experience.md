@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Experience
 description: And Certifications
 image: assets/images/pic11.jpg
