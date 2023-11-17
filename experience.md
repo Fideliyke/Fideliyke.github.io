@@ -21,8 +21,11 @@ nav-menu: true
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Augustine Computers</h3>
+		<p>  Data Entry Officer/ Data Analyst (02/2022 - 05/2022)
+-	Collected, cleaned, and analyzed data for the organization.
+-	Interpreted data through visualizations and storytelling to make profit-driven decisions.
+-	Created spreadsheets, PowerPoint and word document files for business activities.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
