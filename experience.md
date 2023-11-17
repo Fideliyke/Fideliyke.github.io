@@ -40,6 +40,20 @@ nav-menu: true
 -	Worked as the assistant team leader in our team-based project of predictive analysis.<br>
 	</p>
 	</div>
+<div class="6u$ 12u$(small)">
+	<h3>Technology Law Club University of Nigeria Nsukka</h3>
+	<p>
+			</h2>Head of FinTech Department (09/2022 – 10/2023)</h2><br>
+-	Took the lead in overseeing the FinTech department.<br>
+-	Conducted a thorough evaluation of the department's performance.<br>
+-	Pioneered the establishment of a dedicated research team within the department to investigate the impact of the Covid-19 pandemic on FinTech companies in Nigeria.<br>
+	</p>
+	</div>
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Volunteering</h1>
+		</header>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
