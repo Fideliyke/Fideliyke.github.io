@@ -115,5 +115,56 @@ nav-menu: true
                 Click <a href="{{ site.baseurl }}Programming/2022 Complete Python_Bootcamp From Zero to Hero in_Python.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
+    <div class="row">
+        <div class="6u 12u$(small)">
+            <h3>Python for Data Science and Machine Learning (Udemy)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/Python for Data Science and_Machine Learning Bootcamp.pdf" target="_blank">here</a> to view the document.
+            </p>
+        </div>
+        <!-- Clickable text leading to a PDF -->
+        <div class="6u$ 12u$(small)">
+            <h3>Introduction to Machine Learning (Global AI Hub)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/Introduction to Machine Learning-Global AI Hub.pdf" target="_blank">here</a> to view the document.
+            </p>
+        </div>
+    <div class="row">
+        <div class="6u 12u$(small)">
+            <h3>AI and Machine Learning with Python (Data Scientists Network Foundation)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/DSN AI Everyday.jpg" target="_blank">here</a> to view the image.
+            </p>
+            <p>
+                (ID: DSNAI0000064) Click<a href="{{ site.baseurl }}https://cert.datasciencenigeria.ai/" target="_blank">here</a> to verify.
+            </p>
+        </div>
+        <!-- Clickable text leading to a PDF -->
+        <div class="6u$ 12u$(small)">
+            <h3>MLOPs Crash Course (Data Science Dojo)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/MLOps Crash Course.png" target="_blank">here</a> to view the image.
+            </p>
+        </div>
+     <div class="row">
+        <div class="6u 12u$(small)">
+            <h3>Time Series Analysis (Hamoye)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/certificate-Fidelis+Ikechukwu+Edeh-Practical+Time+Series+Analysis+&+Forecast.pdf" target="_blank">here</a> to view the document.
+            </p>
+        </div>
+        <!-- Clickable text leading to a PDF -->
+        <div class="6u$ 12u$(small)">
+            <h3>Neural Network (Hamoye)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/Neural+Network,+Image+Recognition+&+Object+Detection.pdf" target="_blank">here</a> to view the document.
+            </p>
+        </div>
+    <div class="row">
+        <div class="6u 12u$(small)">
+            <h3>Data Science Fellowship (Hamoye)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/Hamoye Fellowship Fidelis Ikechukwu Edeh.pdf" target="_blank">here</a> to view the document.
+            </p>
+        </div>
     </div>
-</section>
