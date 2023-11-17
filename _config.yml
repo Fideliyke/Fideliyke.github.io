@@ -2,14 +2,14 @@
 title: FIDELIS'
 subtitle: PORTFOLIO
 email: fidelisike081@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: B.MLS||DATA ANALYST||DATA SCIENTIST||ML
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-city: ENUGU
-state: ENUGU
+city:
+state: ENUGU STATE
 country: NIGERIA
-phone: (+234)9021508603
+phone: (+234)902 150 8603
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
