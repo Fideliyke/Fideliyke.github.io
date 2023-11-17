@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <div style="float: left; margin: 0 1em 1em 0; width: 30%; max-width: 1000px;">
-    {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
+    {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 1000%; max-width: 1000%; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
 </div>
 
 <!-- Main -->
@@ -72,23 +72,25 @@ nav-menu: true
     </div>
 </section>
 
-<header class="major">
-    <h1>Certifications</h1>
-</header>
-
-**SQL (Sololearn)**  
-[Certificate](Programming/SQL Sololearn.jpg)
-
-**Excel (LinkedIn Learning)**  
-[Certificate](Programming/Learning Excel.png)
-
-**Data Analyst Bootcamp (KEN-X_EDU)**  
-[Certificate](Programming/KEN-X-EDU.jpg)
-
-**Introduction to Python (Global AI Hub)**  
-[Certificate](Programming/Introduction to Python-Global AI Hub.pdf)
-
-**Introduction to Python with Google Collab and Anaconda (Hamoye)**  
-[Certificate](Programming/certificate-Fidelis+Ikechukwu+Edeh-Introduction+to+Python+With+Google+Colab+&+Anaconda (1).pdf)
-
-<!-- Add more certifications in a similar format -->
+<section id="one">
+    <div class="row">
+        <!-- Your existing content -->
+        <!-- ... -->
+        <!-- Clickable text leading to an image -->
+        <div class="6u 12u$(small)">
+            <h3>View Image</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/KEN-X-EDU.jpg" target="_blank">here</a> to view the image.
+            </p>
+        </div>
+        <!-- Clickable text leading to a PDF -->
+        <div class="6u$ 12u$(small)">
+            <h3>View PDF</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/Hamoye Fellowship Fidelis Ikechukwu Edeh.pdf" target="_blank">here</a> to view the document.
+            </p>
+        </div>
+        <!-- Your other content -->
+        <!-- ... -->
+    </div>
+</section>
