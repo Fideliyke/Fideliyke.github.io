@@ -55,7 +55,7 @@ nav-menu: true
                             Data Entry/Data Analysis/Research<br>
                             - Gathering and inputting data during medical outreach programs.<br>
                             - Data management and analysis tasks.<br>
-                            - Developing dashboards and PowerPoint presentations for use in summits and conferences.<br>
+                            - Developing dashboards and PowerPoint presentations for use in<br> summits and conferences.<br>
                             - Constructing Google Forms and online classrooms.
                         </p>
                     </div>
@@ -70,5 +70,4 @@ nav-menu: true
                 </div>
             </div>
         </section>
-    </div>
 </section>
