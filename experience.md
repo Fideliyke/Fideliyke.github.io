@@ -6,8 +6,8 @@ image: assets/images/228650-the-three-cores-of-data-science-towards-data-science
 nav-menu: true
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; width: 400%; max-width: 400px;">
-    {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 500%; max-width: 500%; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
+<div style="float: left; margin: 0 1em 1em 0; width: 400%; max-width: 300px;">
+    {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 500%; max-width: 500%; height: 300px; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
 </div>
 
 <!-- Main -->
