@@ -6,7 +6,7 @@ image: assets/images/228650-the-three-cores-of-data-science-towards-data-science
 nav-menu: true
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; width: 30%;">
+<div style="float: left; margin: 0 1em 1em 0; width: 30%; max-width: 300px;">
     {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
 </div>
 
