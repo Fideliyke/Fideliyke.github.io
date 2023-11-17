@@ -146,7 +146,7 @@ nav-menu: true
                 Click <a href="{{ site.baseurl }}Programming/MLOps Crash Course.png" target="_blank">here</a> to view the image.
             </p>
         </div>
-     <div class="row">
+    <div class="row">
         <div class="6u 12u$(small)">
             <h3>Time Series Analysis (Hamoye)</h3>
             <p>
