@@ -42,21 +42,33 @@ nav-menu: true
         </div>
     </div>
 </section>
-<!-- Volunteering Section -->
-<section id="volunteering">
+<section id="certifications">
     <header class="major">
-        <h1>Volunteering</h1>
+        <h1>Certifications</h1>
     </header>
-    <div class="row">
-        <div class="6u 12u$(small)">
-            <!-- Your existing volunteering content -->
-            <!-- ... -->
-        </div>
-        <div class="6u$ 12u$(small)">
-            <!-- Your existing volunteering content -->
-            <!-- ... -->
+        <div class="row">
+            <div class="6u 12u$(small)">
+                <h3>Youth Health Action Network</h3>
+                <p style="text-align: justify;">
+                    Data Entry/Data Analysis/Research<br>
+                    - Gathering and inputting data during medical outreach programs.<br>
+                    - Data management and analysis tasks.<br>
+                    - Developing dashboards and PowerPoint presentations for use in<br> summits and conferences.<br>
+                    - Constructing Google Forms and online classrooms.
+                </p>
+            </div>
+            <div class="6u$ 12u$(small)">
+                <h3>Global Youth Mental Health Awareness Australia</h3>
+                <p style="text-align: justify;">
+                    Volunteer<br>
+                    - Serves as the Social Media Representative, responsible for managing the organization's LinkedIn profile.<br>
+                    - Featured as a speaker on several occasions during Facebook Live shows, addressing various aspects of mental health concerns.
+                </p>
+            </div>
         </div>
     </div>
+</section>
+
 </section>
 <!-- Certifications Section -->
 <section id="certifications">
