@@ -1,7 +1,7 @@
 ---
-title: Project
+title: My Projects
 layout: landing
-description: 'Thee are my projects'
+description: 'These are my projects'
 image: assets/images/pic07.jpg
 nav-menu: false
 ---
