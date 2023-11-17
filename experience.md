@@ -2,12 +2,12 @@
 layout: post
 title: Experience
 description: And Certifications
-image: assets/images/228650-the-three-cores-of-data-science-towards-data-science.png
+image:
 nav-menu: true
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; width: 400%; max-width: 150px;">
-    {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 500%; max-width: 500%; height: 300px; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
+<div style="float: left; margin: 0 1em 1em 0; width: 150%; max-width: 180px;">
+    {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 500%; max-width: 500%; height: 350px; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
 </div>
 
 <!-- Main -->
