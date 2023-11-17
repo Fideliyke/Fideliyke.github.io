@@ -2,7 +2,7 @@
 layout: post
 title: Experience
 description: And Certifications
-image: assets/images/pic11.jpg
+image: assets/images/228650-the-three-cores-of-data-science-towards-data-science.png
 nav-menu: true
 ---
 
@@ -18,7 +18,7 @@ nav-menu: true
                     Data Entry Officer/ Data Analyst (02/2022 - 05/2022)<br>
                     - Collected, cleaned, and analyzed data for the organization.<br>
                     - Interpreted data through visualizations and storytelling to make profit-driven decisions.<br>
-                    - Created spreadsheets, PowerPoint, and word document files for business activities.
+                    - Created spreadsheets, PowerPoint, and word document files for<br> business activities.
                 </p>
             </div>
             <div class="6u$ 12u$(small)">
@@ -67,6 +67,10 @@ nav-menu: true
                             - Featured as a speaker on several occasions during Facebook Live shows, addressing various aspects of mental health concerns.
                         </p>
                     </div>
+                <header class="major">
+                    <h1>Certifications</h1>
+                </header>
+                <!-- Break -->
                 </div>
             </div>
         </section>
