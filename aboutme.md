@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/fid pic.jpg
+image: assets/images/fid pic3.jpg
 nav-menu: true
 ---
 
