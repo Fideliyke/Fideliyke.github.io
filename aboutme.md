@@ -5,8 +5,8 @@ image: assets/images/fidpic.jpg
 nav-menu: true
 ---
 
-<div style="float: left; margin: 0 2 1em 1em; width: 40%;">
-    {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
+<div style="float: left; margin: 5 10 1em 1em; width: 40%;">
+    {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 100%; max-width: 100%; display: block; margin-left: auto; margin-right: 2em;" />{% endif %}
 </div>
 
 <p style="text-align: justify;">
