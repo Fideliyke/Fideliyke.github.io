@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-image: assets/images/fid pic3.jpg
+image: assets/images/fidpic3.jpg
 nav-menu: true
 ---
 
