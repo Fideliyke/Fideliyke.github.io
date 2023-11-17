@@ -23,18 +23,22 @@ nav-menu: true
 <div class="6u 12u$(small)">
     <h3>Augustine Computers</h3>
     <p>  
-        Data Entry Officer/ Data Analyst (02/2022 - 05/2022)<br>
-        -<br>
-        Collected, cleaned, and analyzed data for the organization.<br>
-        -<br>
-        Interpreted data through visualizations and storytelling to make profit-driven decisions.<br>
-        -<br>
-        Created spreadsheets, PowerPoint, and word document files for business activities.
+        </h2>Data Entry Officer/ Data Analyst (02/2022 - 05/2022)</h2><br>
+        - Collected, cleaned, and analyzed data for the organization.<br>
+        - Interpreted data through visualizations and storytelling to make profit-driven decisions.<br>
+        - Created spreadsheets, PowerPoint, and word document files for business activities.
     </p>
 </div>
 <div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+	<h3>Hamoye</h3>
+	<p>
+			</h2>Data Science Intern (07/2022 – 11/2022)</h2><br>
+-	Worked on real-life projects using predictive analysis and machine learning models.<br>
+-	Cleaned and analyzed datasets for business organizations.<br>
+-	Presented profit-driven business plans to industry experts.<br>
+-	Prepared reports that interpret consumer preference, growth prospects, and equity returns.<br>
+-	Worked as the assistant team leader in our team-based project of predictive analysis.<br>
+	</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
