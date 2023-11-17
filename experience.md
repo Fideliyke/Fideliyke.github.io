@@ -2,7 +2,7 @@
 layout: post
 title: Experience
 description: And Certifications
-image: assets/images/228650-the-three-cores-of-data-science-towards-data-sciencecopy2.png
+image: assets/images/228650-the-three-cores-of-data-science-towards-data-sciencecopy.png
 nav-menu: true
 ---
 
