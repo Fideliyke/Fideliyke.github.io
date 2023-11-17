@@ -31,11 +31,11 @@ nav-menu: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>The stability of grid systems prediction</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Electrical grids require a balance between electricity supply and demand in order to be stable. Conventional systems achieve this balance through demand-driven electricity production. For future grids with a high share of inflexible (i.e., renewable) energy sources, the concept of demand response is a promising solution. This implies changes in electricity consumption in relation to electricity price changes. In this work, we’ll build a binary classification model to predict if a grid is stable or unstable using the UCI Electrical Grid Stability Simulated dataset.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -47,11 +47,27 @@ nav-menu: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Predicting the career longevity of NBA players</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The National Basketball Association (NBA) is a professional basketball league in North America. The league comprises 30 teams (29 in the United States and 1 in Canada) and is one of the four major professional sports leagues in the United States and Canada. It is the premier men's professional basketball league in the world. [source of information: Wikipedia] Using machine learning techniques determine if a player’s career will flourish or not. For any athlete in any sport,  career length is determined by a variety of factors. Factors such as games played, game count, and other data of the player during the game.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/Fideliyke/NBA-ROOKIES" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Electricity Price Time Series Forecast</h3>
+				</header>
+				<p>Electricity consumption is cyclical, varying by months, days of the week and hours. For this reason, a wide range of research deals with the inclusion of seasonal patterns in electricity price forecasts.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
