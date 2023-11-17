@@ -70,7 +70,46 @@ nav-menu: true
                 <header class="major">
                     <h1>Certifications</h1>
                 </header>
-                <!-- Break -->
+                        <!-- Break -->
+**SQL (Sololearn)**  
+[Certificate](Programming/SQL Sololearn.jpg)
+
+**Excel (LinkedIn Learning)**  
+[Certificate](Programming/Learning Excel.png)
+
+**Data Analyst Bootcamp (KEN-X_EDU)**  
+[Certificate](Programming/KEN-X-EDU.jpg)
+
+**Introduction to Python (Global AI Hub)**  
+[Certificate](Programming/Introduction to Python-Global AI Hub.pdf)
+
+**Introduction to Python with Google Collab and Anaconda (Hamoye)**  
+[Certificate](Programming/certificate-Fidelis+Ikechukwu+Edeh-Introduction+to+Python+With+Google+Colab+&+Anaconda (1).pdf)
+
+**Complete Python Bootcamp (Udemy)**  
+[Certificate](Programming/2022 Complete Python_Bootcamp From Zero to Hero in_Python.pdf)
+
+**Python for Data Science and Machine Learning (Udemy)**  
+[Certificate](Programming/Python for Data Science and_Machine Learning Bootcamp.pdf)
+
+**Introduction to Machine Learning (Global AI Hub)**  
+[Certificate](Programming/Introduction to Machine Learning-Global AI Hub.pdf)
+
+**AI and Machine Learning with Python (Data Scientists Network Foundation)**  
+[Certificate](Programming/DSN AI Everyday.jpg)  
+[Link for Verification (ID: DSNAI0000064)](https://cert.datasciencenigeria.ai/)
+
+**MLOPs Crash Course (Data Science Dojo)**  
+[Certificate](Programming/MLOps Crash Course.png)
+
+**Time Series Analysis (Hamoye)**  
+[Certificate](Programming/certificate-Fidelis+Ikechukwu+Edeh-Practical+Time+Series+Analysis+&+Forecast.pdf)
+
+**Neural Network (Hamoye)**  
+[Certificate](Programming/Neural+Network,+Image+Recognition+&+Object+Detection.pdf)
+
+**Data Science Fellowship Certificate (Hamoye)**  
+[Certificate](Programming/Hamoye Fellowship Fidelis Ikechukwu Edeh.pdf)
                 </div>
             </div>
         </section>
