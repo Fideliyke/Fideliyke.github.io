@@ -6,7 +6,7 @@ image: assets/images/228650-the-three-cores-of-data-science-towards-data-science
 nav-menu: true
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; width: 30%; max-width: 1000px;">
+<div style="float: left; margin: 0 1em 1em 0; width: 30%; max-width: 500px;">
     {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 1000%; max-width: 1000%; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
 </div>
 
@@ -72,25 +72,52 @@ nav-menu: true
     </div>
 </section>
 
+<header class="major">
+            <h1>Certifications</h1>
+        </header>
+        <!-- Break -->
 <section id="one">
     <div class="row">
-        <!-- Your existing content -->
-        <!-- ... -->
-        <!-- Clickable text leading to an image -->
         <div class="6u 12u$(small)">
-            <h3>View Image</h3>
+            <h3>SQL (Sololearn)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/SQL Sololearn.jpg" target="_blank">here</a> to view the image.
+            </p>
+        </div>
+        <!-- Clickable text leading to a PDF -->
+        <div class="6u$ 12u$(small)">
+            <h3>Excel (LinkedIn Learning)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/Learning Excel.png" target="_blank">here</a> to view the image.
+            </p>
+        </div>
+    <div class="row">
+        <div class="6u 12u$(small)">
+            <h3>Data Analyst Bootcamp (KEN-X_EDU)</h3>
             <p>
                 Click <a href="{{ site.baseurl }}Programming/KEN-X-EDU.jpg" target="_blank">here</a> to view the image.
             </p>
         </div>
         <!-- Clickable text leading to a PDF -->
         <div class="6u$ 12u$(small)">
-            <h3>View PDF</h3>
+            <h3>Introduction to Python (Global AI Hub)</h3>
             <p>
-                Click <a href="{{ site.baseurl }}Programming/Hamoye Fellowship Fidelis Ikechukwu Edeh.pdf" target="_blank">here</a> to view the document.
+                Click <a href="{{ site.baseurl }}Programming/Introduction to Python-Global AI Hub.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
-        <!-- Your other content -->
-        <!-- ... -->
+    <div class="row">
+        <div class="6u 12u$(small)">
+            <h3>Introduction to Python with Google Collab and Anaconda (Hamoye)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/certificate-Fidelis+Ikechukwu+Edeh-Introduction+to+Python+With+Google+Colab+&+Anaconda (1).pdf" target="_blank">here</a> to view the document.
+            </p>
+        </div>
+        <!-- Clickable text leading to a PDF -->
+        <div class="6u$ 12u$(small)">
+            <h3>Complete Python Bootcamp (Udemy)</h3>
+            <p>
+                Click <a href="{{ site.baseurl }}Programming/2022 Complete Python_Bootcamp From Zero to Hero in_Python.pdf" target="_blank">here</a> to view the document.
+            </p>
+        </div>
     </div>
 </section>
