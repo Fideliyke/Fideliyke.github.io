@@ -6,7 +6,7 @@ image: assets/images/228650-the-three-cores-of-data-science-towards-data-science
 nav-menu: true
 ---
 
-<div style="float: left; margin: 0 1em 1em 0; width: 100%;">
+<div style="float: left; margin: 0 1em 1em 0; width: 30%;">
     {% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" />{% endif %}
 </div>
 
@@ -72,13 +72,7 @@ nav-menu: true
         <header class="major">
             <h1>Certifications</h1>
         </header>
-        <!-- Certifications -->
-        <div>
-            **SQL (Sololearn)**<br>
-            [Certificate](Programming/SQL Sololearn.jpg)<br>
-            **Excel (LinkedIn Learning)**<br>
-            [Certificate](Programming/Learning Excel.png)<br>
-            <!-- Add other certification entries in a similar format -->
         </div>
     </div>
 </section>
+
