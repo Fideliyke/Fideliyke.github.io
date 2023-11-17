@@ -42,9 +42,9 @@ nav-menu: true
         </div>
     </div>
 </section>
-<section id="certifications">
+<section id="volunteering">
     <header class="major">
-        <h1>Certifications</h1>
+        <h1>Volunteering</h1>
     </header>
         <div class="row">
             <div class="6u 12u$(small)">
@@ -65,10 +65,6 @@ nav-menu: true
                     - Featured as a speaker on several occasions during Facebook Live shows, addressing various aspects of mental health concerns.
                 </p>
             </div>
-        </div>
-    </div>
-</section>
-
 </section>
 <!-- Certifications Section -->
 <section id="certifications">
