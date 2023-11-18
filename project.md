@@ -9,7 +9,7 @@ nav-menu: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/Fideliyke/APPLIANCES-ENERGY-PREDICTION" class="image">
 			<img src="{% link assets/images/appliance1.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -25,7 +25,7 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM" class="image">
 			<img src="{% link assets/images/electricity3.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -41,7 +41,7 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/Fideliyke/NBA-ROOKIES" class="image">
 			<img src="{% link assets/images/nbaplayers.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -57,7 +57,7 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST" class="image">
 			<img src="{% link assets/images/electricity2.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
