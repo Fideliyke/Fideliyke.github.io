@@ -20,9 +20,9 @@ nav-menu: true
                 - Created spreadsheets, PowerPoint, and word document files for<br> business activities.
             </p>
         </div>
-        <div class="6u$ 12u$(small)">
+        <div class="6u$ 12u$(small)" style="text-align: justify; margin-left: 50px; margin-right: 50px;">
             <h3>Hamoye</h3>
-            <p style="text-align: justify;">
+            <p>
                 Data Science Intern (07/2022 – 11/2022)<br>
                 - Worked on real-life projects using predictive analysis and machine learning models.<br>
                 - Cleaned and analyzed datasets for business organizations.<br>
