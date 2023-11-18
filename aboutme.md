@@ -10,7 +10,7 @@ nav-menu: true
 </div>
 
 <div style="width: 70%; margin-left: 15%;">
-    <p style="text-align: justify; margin-left: 0px; margin-right: -50px;">
+    <p style="text-align: justify; margin-left: -50px; margin-right: -50px;">
         I am a dedicated professional equipped with a distinctive skill set and a proven track record of delivering exceptional outcomes. My journey in data analysis, data science, machine learning, and problem-solving has been significantly enriched by active participation in numerous personal projects, freelance assignments, and volunteer initiatives. This practical experience is complemented by my active involvement in various clubs, organizations, and participation in an array of educational and professional events, including conventions, symposiums, conferences, and webinars. I am known for my unwavering work ethic and technical proficiency, with a particular knack for tackling intricate challenges, logical reasoning, and advanced computer skills.
     </p>
     <p style="text-align: justify; margin-left: -50px; margin-right: -50px;">
