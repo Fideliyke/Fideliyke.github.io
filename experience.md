@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Experience
 description: And Certifications
 image: assets/images/228650-the-three-cores-of-data-science-towards-data-sciencecopy.png
