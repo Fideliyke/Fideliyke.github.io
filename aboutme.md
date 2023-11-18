@@ -10,13 +10,13 @@ nav-menu: true
 </div>
 
 <div style="width: 70%; margin-left: 15%;">
-    <p style="text-align: justify; margin-left: 2px; margin-right: 2px;">
+    <p style="text-align: justify;">
         I am a dedicated professional equipped with a distinctive skill set and a proven track record of delivering exceptional outcomes. My journey in data analysis, data science, machine learning, and problem-solving has been significantly enriched by active participation in numerous personal projects, freelance assignments, and volunteer initiatives. This practical experience is complemented by my active involvement in various clubs, organizations, and participation in an array of educational and professional events, including conventions, symposiums, conferences, and webinars. I am known for my unwavering work ethic and technical proficiency, with a particular knack for tackling intricate challenges, logical reasoning, and advanced computer skills.
     </p>
-    <p style="text-align: justify; margin-left: 2px; margin-right: 2px;">
+    <p style="text-align: justify;">
         Academically, I hold a Bachelor's degree in Medical Laboratory Science, complemented by comprehensive coursework and internship in data engineering, data analysis, data science, and machine learning. This academic journey earned me a collection of certificates, reflecting my expertise.
     </p>
-    <p style="text-align: justify; margin-left: 10px; margin-right: 10px;">
+    <p style="text-align: justify;">
         My skill set spans the full spectrum of data-related tools, including proficiency in Power Bi, SQL, SPSS, R, Apache Spark, and a strong command of Python libraries like Numpy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn, Keras, Tensorflow, etc. Beyond technical competence, I excel in critical thinking and thrive in collaborative environments. My passion for research and problem-solving, coupled with my solid educational foundation, positions me as a forward-thinking and results-driven data professional.
     </p>
     <p style="text-align: justify; margin-left: 20px; margin-right: 20px;">
