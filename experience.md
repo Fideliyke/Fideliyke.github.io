@@ -50,10 +50,10 @@ nav-menu: true
             <div class="6u 12u$(small)">
                 <h3>Youth Health Action Network</h3>
                 <p style="text-align: justify;">
-                    Data Entry/Data Analysis/Research<br>
+                    Data Entry/Data Analyst/Researcher<br>
                     - Gathering and inputting data during medical outreach programs.<br>
                     - Data management and analysis tasks.<br>
-                    - Developing dashboards and PowerPoint presentations for use in<br> summits and conferences.<br>
+                    - Developing dashboards and PowerPoint presentations for use in summits and conferences.<br>
                     - Constructing Google Forms and online classrooms.
                 </p>
             </div>
