@@ -12,8 +12,8 @@ nav-menu: true
 <section id="one">
     <div class="row">
         <div class="6u 12u$(small)">
-            <h3 style="text-align: justify; margin-left: 50px; margin-right: 50px;">Augustine Computers</h3>
-            <p style="text-align: justify; margin-left: 50px; margin-right: 50px;">
+            <h3>Augustine Computers</h3>
+            <p style="text-align: justify;>
                 Data Entry Officer/ Data Analyst (02/2022 - 05/2022)<br>
                 - Collected, cleaned, and analyzed data for the organization.<br>
                 - Interpreted data through visualizations and storytelling to make profit-driven decisions.<br>
@@ -21,8 +21,8 @@ nav-menu: true
             </p>
         </div>
         <div class="6u$ 12u$(small)">
-            <h3 style="margin-left: 50px; margin-right: 50px;">Hamoye</h3>
-            <p style="text-align: justify; margin-left: 50px; margin-right: 50px;">
+            <h3>Hamoye</h3>
+            <p style="text-align: justify;">
                 Data Science Intern (07/2022 – 11/2022)<br>
                 - Worked on real-life projects using predictive analysis and machine learning models.<br>
                 - Cleaned and analyzed datasets for business organizations.<br>
