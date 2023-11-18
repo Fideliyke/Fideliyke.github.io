@@ -17,7 +17,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Appliances Energy Prediction</h3>
 				</header>
-				<p>The data set is at 10 min for about 4.5 months. The house temperature and humidity conditions were monitored with a ZigBee wireless sensor network. Each wireless node transmitted the temperature and humidity conditions around 3.3 min. Then, the wireless data was averaged for 10 minutes periods. The energy data was logged every 10 minutes with m-bus energy meters. Weather from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis (rp5.ru), and merged together with the experimental data sets using the date and time column. Two random variables have been included in the data set for testing the regression models and to filter out non predictive attributes (parameters). The attribute information can be seen below.</p>
+				<p>The Appliances Energy Prediction project is a comprehensive study that delves into the intricate details of energy consumption prediction within a household setting. Spanning over a period of 4.5 months, the dataset encompasses readings taken at 10-minute intervals, also capturing the nuances of house temperature, humidity and other conditions. The dataset has been meticulously curated, even incorporating two random variables purposely included for the validation of regression models and the filtration of non-predictive attributes. Throughout this project, numerous regression models were tested and assessed using various metrics to determine their efficacy in predicting energy consumption. This comprehensive exploration and evaluation of multiple models facilitated a deeper understanding of energy usage patterns and predictive factors within a household environment.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Fideliyke/APPLIANCES-ENERGY-PREDICTION" class="button">Learn more</a></li>
 				</ul>
@@ -31,9 +31,9 @@ nav-menu: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The stability of grid systems prediction</h3>
+					<h3>The Stability of Grid Systems Prediction</h3>
 				</header>
-				<p>Electrical grids require a balance between electricity supply and demand in order to be stable. Conventional systems achieve this balance through demand-driven electricity production. For future grids with a high share of inflexible (i.e., renewable) energy sources, the concept of demand response is a promising solution. This implies changes in electricity consumption in relation to electricity price changes. In this work, we’ll build a binary classification model to predict if a grid is stable or unstable using the UCI Electrical Grid Stability Simulated dataset.</p>
+				<p>Maintaining stability in electrical grids entails achieving equilibrium between electricity supply and demand. Traditional systems have relied on demand-driven electricity production to maintain this equilibrium. However, with the increasing integration of inflexible, renewable energy sources in future grids, the paradigm shifts toward adopting demand response mechanisms. By developing these predictive models, the aim was to discern and predict whether a grid system would remain stable or become unstable under varying conditions. This work holds significant importance in paving the way for proactive measures in managing the stability of grids amidst evolving energy landscapes.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM" class="button">Learn more</a></li>
 				</ul>
@@ -47,9 +47,9 @@ nav-menu: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Predicting the career longevity of NBA players</h3>
+					<h3>Predicting The Career Longevity of NBA Players</h3>
 				</header>
-				<p>The National Basketball Association (NBA) is a professional basketball league in North America. The league comprises 30 teams (29 in the United States and 1 in Canada) and is one of the four major professional sports leagues in the United States and Canada. It is the premier men's professional basketball league in the world. [source of information: Wikipedia] Using machine learning techniques determine if a player’s career will flourish or not. For any athlete in any sport,  career length is determined by a variety of factors. Factors such as games played, game count, and other data of the player during the game.</p>
+				<p>The National Basketball Association (NBA) is renowned as one of the foremost sports leagues in the United States and Canada, and stands as a cornerstone of the professional basketball league in the world. [source of information: Wikipedia] Within this competitive landscape, the longevity of a player's career becomes a pivotal concern. This project sought to develop predictive models that could forecast the potential trajectory of a player's career within the NBA based on factors like games played, game statistics, and various performance metrics which are captured in the dataset. The insights gained not only offer valuable perspectives into an athlete's professional journey but also pave the way for informed decisions and strategic planning within the realm of basketball and sports management.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Fideliyke/NBA-ROOKIES" class="button">Learn more</a></li>
 				</ul>
@@ -65,7 +65,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Electricity Price Time Series Forecast</h3>
 				</header>
-				<p>Electricity consumption is cyclical, varying by months, days of the week and hours. For this reason, a wide range of research deals with the inclusion of seasonal patterns in electricity price forecasts.</p>
+				<p>The project is focused on forecasting electricity prices using time series models within a specific district, considering the overall electricity consumption. The dataset comprised 92,016 electricity data records collected from September 2010 to February 2021. This dataset was sampled hourly and encompassed various features including date, electricity price, gas price, power consumption, and maximum temperature. This project is aimed to harness the power of time series forecasting models to derive valuable insights, anticipate fluctuations, and establish predictive patterns in electricity pricing dynamics. This analysis contributes to a more informed decision-making process in the energy sector, enabling better resource allocation and strategic planning.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST" class="button">Learn more</a></li>
 				</ul>
