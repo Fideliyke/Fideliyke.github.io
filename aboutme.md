@@ -19,7 +19,7 @@ nav-menu: true
     <p style="text-align: justify;">
         My skill set spans the full spectrum of data-related tools, including proficiency in Power Bi, SQL, SPSS, R, Apache Spark, and a strong command of Python libraries like Numpy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn, Keras, Tensorflow, etc. Beyond technical competence, I excel in critical thinking and thrive in collaborative environments. My passion for research and problem-solving, coupled with my solid educational foundation, positions me as a forward-thinking and results-driven data professional.
     </p>
-    <p style="text-align: justify; margin-left: 20px; margin-right: 20px;">
+    <p style="text-align: justify; margin-left: -10px; margin-right: -10px;">
         With a rich portfolio of certifications from reputable institutions and an active role in volunteer initiatives, such as data collection, data analysis, and creating presentations. I am eager to contribute my unique blend of skills and experiences to drive innovation and deliver impactful results in a dynamic professional setting.
     </p>
 </div>
