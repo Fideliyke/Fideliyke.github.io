@@ -1,7 +1,7 @@
 ---
 title: My Projects
 layout: landing
-description: 
+description: "Transforming Data into Insights"
 image: assets/images/pic07.jpg
 nav-menu: false
 ---
