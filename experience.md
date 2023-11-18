@@ -13,7 +13,7 @@ nav-menu: true
     <div class="row">
         <div class="6u 12u$(small)">
             <h3>Augustine Computers</h3>
-            <p style="text-align: justify;>
+            <p style="text-align: justify;">
                 Data Entry Officer/ Data Analyst (02/2022 - 05/2022)<br>
                 - Collected, cleaned, and analyzed data for the organization.<br>
                 - Interpreted data through visualizations and storytelling to make profit-driven decisions.<br>
