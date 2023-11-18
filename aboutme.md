@@ -10,10 +10,10 @@ nav-menu: true
 </div>
 
 <div style="width: 70%; margin-left: 15%;">
-    <p style="text-align: justify; margin-left: 10px; margin-right: 10px;">
+    <p style="text-align: justify; margin-left: 2px; margin-right: 2px;">
         I am a dedicated professional equipped with a distinctive skill set and a proven track record of delivering exceptional outcomes. My journey in data analysis, data science, machine learning, and problem-solving has been significantly enriched by active participation in numerous personal projects, freelance assignments, and volunteer initiatives. This practical experience is complemented by my active involvement in various clubs, organizations, and participation in an array of educational and professional events, including conventions, symposiums, conferences, and webinars. I am known for my unwavering work ethic and technical proficiency, with a particular knack for tackling intricate challenges, logical reasoning, and advanced computer skills.
     </p>
-    <p style="text-align: justify; margin-left: 10px; margin-right: 10px;">
+    <p style="text-align: justify; margin-left: 2px; margin-right: 2px;">
         Academically, I hold a Bachelor's degree in Medical Laboratory Science, complemented by comprehensive coursework and internship in data engineering, data analysis, data science, and machine learning. This academic journey earned me a collection of certificates, reflecting my expertise.
     </p>
     <p style="text-align: justify; margin-left: 10px; margin-right: 10px;">
