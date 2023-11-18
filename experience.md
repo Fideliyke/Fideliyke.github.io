@@ -11,9 +11,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
     <div class="row">
-        <div class="6u 12u$(small)">
+        <div class="6u 12u$(small)" style="text-align: justify; margin-left: 50px; margin-right: 50px;">
             <h3>Augustine Computers</h3>
-            <p style="text-align: justify; margin-left: 50px; margin-right: 50px;">
+            <p>
                 Data Entry Officer/ Data Analyst (02/2022 - 05/2022)<br>
                 - Collected, cleaned, and analyzed data for the organization.<br>
                 - Interpreted data through visualizations and storytelling to make profit-driven decisions.<br>
