@@ -20,6 +20,7 @@ nav-menu: false
 				<p style="text-align: justify;">The Appliances Energy Prediction project is a comprehensive study that delves into the intricate details of energy consumption prediction within a household setting. Spanning over a period of 4.5 months, the dataset encompasses readings taken at 10-minute intervals, also capturing the nuances of house temperature, humidity and other conditions. The dataset has been meticulously curated, even incorporating two random variables purposely included for the validation of regression models and the filtration of non-predictive attributes. Throughout this project, numerous regression models were tested and assessed using various metrics to determine their efficacy in predicting energy consumption. This comprehensive exploration and evaluation of multiple models facilitated a deeper understanding of energy usage patterns and predictive factors within a household environment.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Fideliyke/APPLIANCES-ENERGY-PREDICTION" class="button">View Project</a></li>
+					<li><a href="https://github.com/Fideliyke/APPLIANCES-ENERGY-PREDICTION" class="button">View Code</a></li>
 				</ul>
 			</div>
 		</div>
