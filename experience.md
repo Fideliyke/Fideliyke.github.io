@@ -2,14 +2,17 @@
 layout: post
 title: Experience
 description: VOLUNTEERING AND CERTIFICATIONS
-image: assets/images/228650-the-three-cores-of-data-science-towards-data-sciencecopy.png
+image: assets/images/228650-the-three-cores-of-data-science-towards-data-science.png
 nav-menu: true
 ---
 
 <!-- Main -->
 <div id="main" class="alt">
 <!-- One -->
-<section id="one">
+<section id="volunteering">
+    <header class="major">
+        <h1>Volunteering</h1>
+    </header>
     <div class="row">
         <div class="6u 12u$(small)">
             <h3>Augustine Computers</h3>
