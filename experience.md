@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Experience
-description: AND CERTIFICATIONS
+description: VOLUNTEERING AND CERTIFICATIONS
 image: assets/images/228650-the-three-cores-of-data-science-towards-data-sciencecopy.png
 nav-menu: true
 ---
