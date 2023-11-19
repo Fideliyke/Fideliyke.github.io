@@ -68,6 +68,8 @@ nav-menu: true
                     - Featured as a speaker on several occasions during Facebook Live shows, addressing various aspects of mental health concerns.
                 </p>
             </div>
+        </div>    
+</section>       
 <!-- Certifications Section -->
 <section id="certifications">
     <header class="major">
