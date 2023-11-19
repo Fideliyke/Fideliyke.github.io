@@ -45,6 +45,8 @@ nav-menu: true
         </div>
     </div>
 </section>
+<section>
+</section>
 <section id="volunteering">
     <header class="major">
         <h1>Volunteering</h1>
@@ -69,7 +71,9 @@ nav-menu: true
                 </p>
             </div>
         </div>    
-</section>       
+</section>
+<section>
+</section>
 <!-- Certifications Section -->
 <section id="certifications">
     <header class="major">
@@ -183,4 +187,6 @@ nav-menu: true
             </p>
         </div>
     </div>
+</section>
+<section>
 </section>
