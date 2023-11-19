@@ -9,9 +9,9 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 <!-- One -->
-<section id="volunteering">
+<section id="experience">
     <header class="major">
-        <h1>Volunteering</h1>
+        <h1>Experience</h1>
     </header>
     <div class="row">
         <div class="6u 12u$(small)">
