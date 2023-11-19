@@ -9,7 +9,7 @@ nav-menu: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/Fideliyke/APPLIANCES-ENERGY-PREDICTION" class="image">
+		<a href="https://github.com/Fideliyke/APPLIANCES-ENERGY-PREDICTION" class="image" target="_blank">
 			<img src="{% link assets/images/appliance1.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -26,7 +26,7 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM" class="image">
+		<a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM" class="image" target="_blank">
 			<img src="{% link assets/images/electricity3.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -36,14 +36,14 @@ nav-menu: false
 				</header>
 				<p style="text-align: justify;">Maintaining stability in electrical grids entails achieving equilibrium between electricity supply and demand. Traditional systems have relied on demand-driven electricity production to maintain this equilibrium. However, with the increasing integration of inflexible, renewable energy sources in future grids, the paradigm shifts toward adopting demand response mechanisms. By developing these predictive models, the aim was to discern and predict whether a grid system would remain stable or become unstable under varying conditions. This work holds significant importance in paving the way for proactive measures in managing the stability of grids amidst evolving energy landscapes.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM" class="button">View Project</a></li>
-					<li><a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM/blob/master/Stability%20of%20the%20grid%20system.ipynb" class="button">View Code</a></li>
+					<li><a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM" class="button" target="_blank">View Project</a></li>
+					<li><a href="https://github.com/Fideliyke/STABILITY-OF-THE-GRID-SYSTEM/blob/master/Stability%20of%20the%20grid%20system.ipynb" class="button" target="_blank">View Code</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://github.com/Fideliyke/NBA-ROOKIES" class="image">
+		<a href="https://github.com/Fideliyke/NBA-ROOKIES" class="image" target="_blank">
 			<img src="{% link assets/images/nbaplayers.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -53,14 +53,14 @@ nav-menu: false
 				</header>
 				<p style="text-align: justify;">The National Basketball Association (NBA) is renowned as one of the foremost sports leagues in the United States and Canada, and stands as a cornerstone of the professional basketball league in the world. [source of information: Wikipedia] Within this competitive landscape, the longevity of a player's career becomes a pivotal concern. This project sought to develop predictive models that could forecast the potential trajectory of a player's career within the NBA based on factors like games played, game statistics, and various performance metrics which are captured in the dataset. The insights gained not only offer valuable perspectives into an athlete's professional journey but also pave the way for informed decisions and strategic planning within the realm of basketball and sports management.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Fideliyke/NBA-ROOKIES" class="button">View Project</a></li>
-					<li><a href="https://github.com/Fideliyke/NBA-ROOKIES/blob/master/Fidel.ipynb" class="button">View Code</a></li>
+					<li><a href="https://github.com/Fideliyke/NBA-ROOKIES" class="button" target="_blank">View Project</a></li>
+					<li><a href="https://github.com/Fideliyke/NBA-ROOKIES/blob/master/Fidel.ipynb" class="button" target="_blank">View Code</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST" class="image">
+		<a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST" class="image" target="_blank">
 			<img src="{% link assets/images/electricity2.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -70,8 +70,8 @@ nav-menu: false
 				</header>
 				<p style="text-align: justify;">The project is focused on forecasting electricity prices using time series models within a specific district, considering the overall electricity consumption. The dataset comprised 92,016 electricity data records collected from September 2010 to February 2021. This dataset was sampled hourly and encompassed various features including date, electricity price, gas price, power consumption, and maximum temperature. This project is aimed to harness the power of time series forecasting models to derive valuable insights, anticipate fluctuations, and establish predictive patterns in electricity pricing dynamics. This analysis contributes to a more informed decision-making process in the energy sector, enabling better resource allocation and strategic planning.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST" class="button">View Project</a></li>
-					<li><a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST/blob/master/Time%20Series%20notebook.ipynb" class="button">View Code</a></li>
+					<li><a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST" class="button" target="_blank">View Project</a></li>
+					<li><a href="https://github.com/Fideliyke/ELECTRICITY-PRICE-TIME-SERIES-FORECAST/blob/master/Time%20Series%20notebook.ipynb" class="button" target="_blank">View Code</a></li>
 				</ul>
 			</div>
 		</div>
