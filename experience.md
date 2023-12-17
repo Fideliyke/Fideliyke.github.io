@@ -184,6 +184,13 @@ nav-menu: true
                 Click <a href="{{ site.baseurl }}Programming/Hamoye Fellowship Fidelis Ikechukwu Edeh.pdf" target="_blank">here</a> to view the document.
             </p>
         </div>
+        <!-- Certification 14 -->
+        <div class="6u$ 12u$(small)">
+            <h3>IBM Professional Certificate (Cousera)</h3>
+            <p>
+                 Click <a href="{{ site.baseurl }}Programming/IBM Data Science/IBM DATA SCIENCE.pdf" target="_blank">here</a> to view the document.   
+            </p>
+        </div>
     </div>
 </section>
 <hr>
